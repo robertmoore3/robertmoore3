@@ -12,7 +12,6 @@
  
 <h2>👨‍💻 Coding Projects:</h2>
 - <b>Rock-Paper-Scissors Game</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/robertmoore3/osticket-prereqs)
 
 <h2>🤳Connect with me:</h2>
 
