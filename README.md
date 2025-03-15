@@ -10,7 +10,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/robertmoore3/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robertmoore3/azure-network-protocols)
  
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/robertmoore3/ad-infrastructure)
+  - [Deploying Active Directory](https://github.com/robertmoore3/deploying-ad)
+  - [Enabling and Unlocking Accounts and Restting Passwords](https://github.com/robertmoore3/ad-accounts)
+ 
 <h2>👨‍💻 Coding Projects:</h2>
+
 - <b>Rock-Paper-Scissors Game</b>
 
 <h2>🤳Connect with me:</h2>
